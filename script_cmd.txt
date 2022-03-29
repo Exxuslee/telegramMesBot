@@ -1,0 +1,12 @@
+cd..
+cd..
+cd mesrobot2
+node uninstall
+node install
+
+
+
+
+
+
+opc -h 10.1.0.10 -s OPC.PHDServerDA.1 UL1.BEN.FI300.PV
